@@ -1,0 +1,129 @@
+		web applications
+		
+		three layers
+		
+		ui layer   business layer   DB layer 
+		
+		
+		react
+		
+		static	-->fixed 	login
+		dynamic -->not fixed   home page 
+		
+		
+		HTML-5.x
+		
+			<>
+		<h1>
+		<p>
+		<form>
+			<input type="text/password/radio/checkbox....file/color/date/email....."
+			<select>
+				<option>Degree</option>
+			
+			</select>
+			<table>
+			<tr>
+			<td>
+			<ol>--->1,2,3,4
+			<ul>disc
+			<th>...
+		</form>
+
+			</>
+		register.html---->browser--google-->engine -->v8-->DOM
+		
+CSS:
+====3
+
+			inline---><h1 style="color:red;background-color:yellow">welcome to india</h1>
+		
+			internal---><head><style>selector{propname:provalue;propname:value}
+			
+			external
+			
+			1)element selector h1
+			2)group selector	h1,h3,p,a...
+			3)all selector		*
+			4)id selector		#	
+			5)class selector	.
+			
+			
+			external css
+			
+			
+			bootstrap.css-->twitter
+			mystyles.css--->sandeep
+			
+Javascript:
+=============		
+			
+					react=>js,html,css
+					
+					
+			JS		
+					
+					password
+					cpassword 
+					
+					
+			ES6-->ecmascript 2015--specification
+			
+			let,const,arrow functions...
+			
+					javascript -->implementation  DOM tree-->document
+			
+	inline		<body><script>  </script></body>
+	internal	<head><script>..</script></head>
+	external	myscript.js
+					
+			
+			
+				<script src="angular.js" />
+			
+			
+		welcome.js
+		
+			node welcome.js
+
+variables
+functions
+flow control statements
+document
+window
+date
+arrays
+string.....			
+
+
+variable-->name of memory location
+javscript is dynamic typed programming language 
+var name="massmutual";
+name=123;
+name=true;
+var result=true;
+
+function add(a,b)
+{
+return 
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
