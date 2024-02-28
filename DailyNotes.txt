@@ -71,7 +71,7 @@ Javascript:
 			
 			let,const,arrow functions...
 			
-					javascript -->implementation  DOM tree-->document
+					javascript -->implementation  DOM tree-->document.write("welcome")
 			
 	inline		<body><script>  </script></body>
 	internal	<head><script>..</script></head>
@@ -110,11 +110,83 @@ return
 
 
 
+React:
+====== UI  18.x
+
+MVC--->view  jordan walke 2011
+ 
+		Facebook-->META
+	
+		virtual DOM
+
+
+	NPM -->install node packages
+	
+	node -v
+	npm -v
+	npm install -g typescript
+	npm install -g @angular/cli
+	
+	npm install -g create-react-app
+	npm uninstall -g create-react-app
+	
+	npx-->npx create-react-app demo
+	
+	
+	ctrl + ~
+	
+	create-react-app projectname
+	
+	
+	server--->3000
+	
+	npm start-->to start server with by default port 3000
+	
+
+	component-->app-->root component
+	building block of react app
+
+	reusability
+	
+	1.Functional component
+
+	2.class component
+	
+	
+	
+JSX	
+	
+	
+	<div>
+	
+			React.createElement("div","className","")
+	
+	
+				/*  bbbbbbb */
+				
+				BABEL---->CONVERTED JS CODE ....
+
+https://infoheap.com/online-react-jsx-to-javascript/
+
+stateless/functional component
+
+
+statefull/class component
+
+
+this.state
+setState
+getIntialState
+
+
+state-->muttable
+props-->imuttable
 
 
 
 
 
+npm install -g react-router-dom --save
 
 
 
